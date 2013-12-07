@@ -5,8 +5,8 @@ using System.Text;
 using System.Windows.Forms;
 using System.Drawing;
 
-namespace Base_Project__Always_Copy__
-{
+ 
+
     public partial class DBPanel : Panel
     {
         public DBPanel()
@@ -23,4 +23,3 @@ namespace Base_Project__Always_Copy__
             base.OnPaint(pe);
         }
     }
-}

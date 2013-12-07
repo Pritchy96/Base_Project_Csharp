@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Project (Always Copy!)", "Base Project (Always Copy!)\Base Project (Always Copy!).csproj", "{D280563A-A68F-435C-A89E-64541FFA2C6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Base Project (Always Copy!)\Trees.csproj", "{D280563A-A68F-435C-A89E-64541FFA2C6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

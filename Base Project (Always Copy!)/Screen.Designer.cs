@@ -1,5 +1,5 @@
-﻿namespace Base_Project__Always_Copy__
-{
+﻿ 
+
     partial class Screen
     {
         /// <summary>
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.DrawScreen = new Base_Project__Always_Copy__.DBPanel();
+            this.DrawScreen = new DBPanel();
             this.SuspendLayout();
             // 
             // DrawScreen
@@ -61,5 +61,5 @@
         private DBPanel DrawScreen;
 
     }
-}
+
 

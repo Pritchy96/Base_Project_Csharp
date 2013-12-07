@@ -1,5 +1,5 @@
-﻿namespace Base_Project__Always_Copy__
-{
+﻿ 
+
     partial class DBPanel
     {
         /// <summary>
@@ -33,4 +33,4 @@
 
         #endregion
     }
-}
+

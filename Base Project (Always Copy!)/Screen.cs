@@ -9,8 +9,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Base_Project__Always_Copy__
-{
+ 
+
     public partial class Screen : Form
     {
         //Screen size.
@@ -112,4 +112,4 @@ namespace Base_Project__Always_Copy__
             this.Height = height + 28;
         }
     }
-}
+

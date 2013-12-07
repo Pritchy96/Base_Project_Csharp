@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Base_Project__Always_Copy__
-{
+ 
+
     class MenuState : BasicState
     {
         public override void Update()
@@ -25,4 +25,4 @@ namespace Base_Project__Always_Copy__
         {
         }
     }
-}
+

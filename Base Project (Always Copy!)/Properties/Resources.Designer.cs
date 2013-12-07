@@ -8,8 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Base_Project__Always_Copy__.Properties
-{
+
 
 
     /// <summary>
@@ -68,4 +67,4 @@ namespace Base_Project__Always_Copy__.Properties
             }
         }
     }
-}
+

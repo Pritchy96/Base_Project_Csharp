@@ -7,23 +7,22 @@ using System.Windows.Forms;
 
  
 
-    abstract class BasicState
+    class MainState : BasicState
     {
-
-        public virtual void Update()
+        public override void Update()
         {
         }
 
-        public virtual void Redraw(PaintEventArgs e)
+        public override void MouseMoved(MouseEventArgs e)
         {
         }
 
-        public virtual void MouseMoved(MouseEventArgs e)
+        public override void MouseClicked(MouseEventArgs e)
         {
         }
 
-        public virtual void MouseClicked(MouseEventArgs e)
+        public override void Redraw(PaintEventArgs e)
         {
         }
-
     }
+

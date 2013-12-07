@@ -4,8 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Base_Project__Always_Copy__
-{
+ 
+
     static class Program
     {
         /// <summary>
@@ -19,4 +19,4 @@ namespace Base_Project__Always_Copy__
             Application.Run(new Screen());
         }
     }
-}
+
